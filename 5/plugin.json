@@ -1,0 +1,8 @@
+{
+ "pluginId": "b7phitpd6z",
+        "canonicalName": "cylinder",
+        "allowedOrigins": [
+            "*"
+        ],
+  "sourceUrl": "https://some.domain.com:8443/java-web-sample"
+}
